@@ -8,8 +8,11 @@ iPay88 is a leading regional Payment Gateway Provider in South East Asia.
 ## Installation 
 
 ### Using Git
+``` git clone git@github.com:dilab/ipay.git Ipay ```
 
 ### Using Composer
+``` composer require dilab/ipay ```
+
 
 ## Usage
 
