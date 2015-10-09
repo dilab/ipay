@@ -1,0 +1,15 @@
+{
+    "name": "dilab/ipay",
+    "description": "iPay88 Plugin for CakePHP",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xu ding",
+            "email": "thedilab@gmail.com",
+            "homepage": "https://github.com/dilab"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
